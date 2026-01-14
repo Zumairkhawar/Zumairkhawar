@@ -29,17 +29,3 @@ I love coding while listening to music 🎵 and drinking coffee ☕
 - **Tools:** Git, GitHub, VSCode, Chrome DevTools  
 
 ---
-
-### 💻 Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Portfolio Website | My personal portfolio to showcase my projects | [View](file:///C:/Users/os/Desktop/css/Restoran/index.html) |
-| ToDo App | Simple task management web app using React | [View](https://github.com/zumairkhan/todo-app) |
-| Weather App | Shows weather info using OpenWeather API | [View](https://github.com/zumairkhan/weather-app) |
-
----
-
-### 📊 GitHub Stats
-![Zumair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zumairkhan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zumairkhan&layout=compact&theme=radical)
-
