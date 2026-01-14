@@ -33,7 +33,7 @@ I love coding while listening to music 🎵 and drinking coffee ☕
 ### 💻 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| Portfolio Website | My personal portfolio to showcase my projects | [View](https://zumairkhan.dev) |
+| Portfolio Website | My personal portfolio to showcase my projects | [View](file:///C:/Users/os/Desktop/css/Restoran/index.html) |
 | ToDo App | Simple task management web app using React | [View](https://github.com/zumairkhan/todo-app) |
 | Weather App | Shows weather info using OpenWeather API | [View](https://github.com/zumairkhan/weather-app) |
 
